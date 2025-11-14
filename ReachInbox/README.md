@@ -73,15 +73,13 @@ npm run server
     "label":"interested/not-interested/more-information"
 }
 ```
-- `https://dk-reachinbox-assignment.onrender.com/api/mail/sendone/:id` - POST request to send a single mail for particular ID.
 ```
 {
     "from":"sendersmail@gmail.com",
     "to":"recieversmail@gmail.com"
 }
 ```
-- - `https://dk-reachinbox-assignment.onrender.com/api/mail/sendMultiple/:id` - POST request to send a single mail for particular ID.
- ```
+- - 
 {
     "from":"sendersmail@gmail.com",
     "to":["demo@gmail.com","demo@gmail.com", "demo@gmail.com"]
