@@ -35,7 +35,7 @@ Backend : [Link](https://dk-reachinbox-assignment.onrender.com)
 ## Installation setup
 1. Clone the repository to your local machine
 ```bash
-git clone https://github.com/devyanikatre/ReachInbox_Backend_assignment
+git clone https://github.com/rohithkumar/Backend-Assignment
 ```
 2. Navigate to the root directory of the project directory :
 ```bash 
